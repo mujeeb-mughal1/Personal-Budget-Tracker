@@ -24,7 +24,7 @@ This project is a **Java-based Personal Budget Tracker** designed to help users 
 - **Java**: Core logic and backend.
 - **Java Swing**: Used to build the graphical user interface (GUI).
 
-## Instructions:
+# Instructions:
 
 1. Clone the repository:
    git clone https://github.com/your-username/Personal-Budget-Tracker.git
@@ -33,6 +33,6 @@ This project is a **Java-based Personal Budget Tracker** designed to help users 
    
 3. Follow the on-screen instructions to manage your finances.
 
-##License:
+# License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
