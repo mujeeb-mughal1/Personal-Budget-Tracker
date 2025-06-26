@@ -33,6 +33,6 @@ This project is a **Java-based Personal Budget Tracker** designed to help users 
    
 3. Follow the on-screen instructions to manage your finances.
 
-License:
+##License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
